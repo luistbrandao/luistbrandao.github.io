@@ -1,0 +1,69 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  /* Estilos do cabeçalho */
+  header {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  /* Estilos das seções */
+  section {
+    padding: 50px;
+  }
+  
+  /* Estilos dos projetos */
+  .project {
+    margin-bottom: 30px;
+  }
+  
+  /* Estilos do rodapé */
+  footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Estilos da seção de contato */
+  #contato input,
+  #contato textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #contato button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #contato button:hover {
+    background-color: #555;
+  }
+  
